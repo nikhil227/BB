@@ -33,4 +33,4 @@ no2=no2/10 ;
 no2=no2*10 + fdigit1;
 printf("the nos. with swapped digits are %d %d",no1,no2);
 return 0;
-}
+} 
